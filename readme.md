@@ -37,7 +37,7 @@ You will need the dataset to train and test the model. You can find it in the `t
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <https://github.com/KunalDagar01/CampusPlacementPrediction01>
+   git clone https://github.com/KunalDagar01/CampusPlacementPrediction01
 
 
 2. Install the dependencies
